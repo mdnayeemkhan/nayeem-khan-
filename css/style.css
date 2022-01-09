@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 600px;
+    margin: 10% auto;
+}
+body{
+    background: url(../img/nayeem1.jpg);
+   background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login-section{
+
+    background: chartreuse;
+
+padding: 25px;
+
+border-radius: 33px;
+}
+
+.login-section {}
+
+.login-section img{
+
+margin: 0px auto;
+
+width: 150px;
+
+display: block;
+}
+.login-section h2{
+
+text-align: center;
+
+color: white;
+
+font-size: 36px;
+
+margin: 10px 0;
+}
+
+.form-control{
+
+width: 90%;
+
+height: 45px;
+
+padding: 10px;
+
+margin: 10px 0px;
+}
+
+.submit-btn{
+
+margin: 0px auto;
+
+display: block;
+
+background: maroon;
+
+color: yellow;
+
+padding: 10px 20px;
+
+font-size: 25px;
+
+text-transform: uppercase;
+
+border-radius: 36px;
+cursor: pointer;
+
+
+
